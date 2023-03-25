@@ -16,3 +16,12 @@ Personal JavaScript practices and snippets
 ├─ .prettierrc.json
 ├─ README.md
 ```
+
+## Contributing
+
+Please feel free to fork and contribute
+
+```bash
+git checkout -b username_dev
+git commit -m "I did some changes"
+```
