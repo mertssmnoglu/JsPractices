@@ -1,0 +1,12 @@
+{
+  "name": "Web Browser Extension",
+  "description": "Web Browser Extension",
+  "version": "1.0",
+  "manifest_version": 2,
+  "homepage_url": "https://mertsismanoglu.com",
+  "browser_action": {
+    "default_icon": "logo512.png",
+    "default_title": "Web Browser",
+    "default_popup": "popup.html"
+  }
+}
