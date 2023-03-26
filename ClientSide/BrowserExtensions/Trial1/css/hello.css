@@ -1,0 +1,19 @@
+body {
+  min-height: 250px;
+  min-width: 300px;
+  padding: 5px;
+  background-color: #3d3d3d;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+}
+
+h1 {
+  text-align: center;
+}
+
+#logo_1 {
+  display: block;
+  margin: 0 auto;
+}
+
+/*# sourceMappingURL=hello.css.map */
