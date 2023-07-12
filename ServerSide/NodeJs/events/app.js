@@ -6,5 +6,3 @@ logger.on('messageLogged', function (data) {
 })
 
 logger.log('mesaj')
-
-
